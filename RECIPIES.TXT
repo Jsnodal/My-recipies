@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Recipies</title>
+</head>
+<body>
+    <h2>MY UGALI RECIPE</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ugali_%26_Sukuma_Wiki.jpg/220px-Ugali_%26_Sukuma_Wiki.jpg"  style.width="200px" height="200px">
+    <br>
+    <h3>Description</h2>
+        <p>Ugali, also known as posho, sima, and other names, is a type of corn meal made from maize or corn flour in several countries in Africa.</p>
+        <p> It is cooked in boiling water or milk until it reaches a stiff or firm dough-like consistency.</p>
+    <h3>Ingredients</h3>
+        <ul>
+           <li>4 cups water</li> 
+           <li>2 cups plus 1 tablespoon (if needed) of maize, millet, or sorghum flour (can be mixed with cassava flour)</li>
+        </ul>
+    <h3>Steps</h3>
+        <ol>
+            <li>Bring the water to a boil in a large pot</li>
+            <li>pour in some of the maize flour</li>
+            <li>Allow the water to keep boiling for a few minutes</li>
+            <li>turn the mixture with a long wooden spoon.</li>
+            <li>Sprinkle in more flour and continue mixing.</li>
+            <li>The mixture should start to thicken as you keep stirring and adding more flour.  </li>
+            <li>Hold the pot with mittens or a cloth to prevent burning your hands</li>
+            <li>continue to fold the flour into itself. </li>
+            <li>The ugali will become firmer and more difficult to turn.</li>
+            <li>Press the ugali against the wall of the pot with the spoon</li>
+            <li>mix it back into the middle of the pot.</li>
+            <li>mix it back into the middle of the pot.</li>
+            <li>mix it back into the middle of the pot.</li>
+            <li>Repeat this process several times.</li>
+            <li>Let the ugali stay in the middle of the pot, and turn down the heat to low. </li> 
+            <li>After a few minutes, press out and return the ugali to the middle of the pot again.</li>
+            <li>Remove it from the heat.</li>
+            <li>Scoop the ugali onto a plate, and cover the plate with the pot for a few minutes as you dip the spoon into some water. </li>
+            <li>When taken out of the pot, the ugali will be shapeless. Use the wet spoon to press the ugali until it is rounded. </li>
+            <li>When taken out of the pot, the ugali will be shapeless. Use the wet spoon to press the ugali until it is rounded. </li>
+            <li>Serve with meat, chicken, fish, or vegetables on the side.</li>
+            
+
+        </ol>
+</body>
+</html>
